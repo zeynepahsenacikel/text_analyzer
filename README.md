@@ -1,8 +1,7 @@
 # Text Analyzer
 * This project is a Python-based tool developed to perform statistical analysis on text files via the command line. It was created as part of Computer Engineering coursework to demonstrate text processing and file management logic.
 
-
-## ✨ Features
+## ✨ Features
 * Word and Sentence Counting: Calculates the total number of words and sentences in a given text.
 
 * Character Analysis: Provides a precise character count by excluding spaces and punctuation marks.
@@ -30,5 +29,5 @@ The program runs via the Terminal (Command Line) and requires two parameters:
 * Libraries: sys, locale (for system parameters and language settings)
 
 
-📝 Notes
+## 📝 Notes
 * This project was prepared to showcase core competencies in text mining and data structures.
